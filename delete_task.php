@@ -1,4 +1,5 @@
 <?php
+// Incluir base de datos
 include("db.php");
 
 if(isset($_GET['id'])){
